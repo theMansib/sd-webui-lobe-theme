@@ -6,9 +6,9 @@
 
 <h1 align="center">Lobe Theme</h1>
 
-The modern theme for stable diffusion webui<br/><sup>Legacy verison a.k.a kitchen theme</sup>
+The modern theme for stable diffusion webui<br/><sup>Legacy version a.k.a kitchen theme</sup>
 
-English · [Russian ](./README-ru_RU.md)· [简体中文](./README-zh_CN.md) · [Changelog](./CHANGELOG.md) · [Report Bug][github-issues-link] · [Request Feature][github-issues-link]
+English · [Russian](./README-ru_RU.md)· [简体中文](./README-zh_CN.md) · [Changelog](./CHANGELOG.md) · [Report Bug][github-issues-link] · [Request Feature][github-issues-link]
 
 <!-- SHIELD GROUP -->
 
@@ -73,7 +73,7 @@ English · [Russian ](./README-ru_RU.md)· [简体中文](./README-zh_CN.md) · 
 
 #### Method 1
 
-Search for `Lobe Theme` or `Kitchen Theme` in the stable diffusion webui plugin market and install it.
+Search for `Lobe Theme` or `Kitchen Theme` in the stable diffusion WebUI plugin market and install it.
 
 > \[!NOTE]
 >
@@ -93,7 +93,7 @@ git clone "https://github.com/lobehub/sd-webui-lobe-theme" extensions/lobe-theme
 
 #### Upstream Sync
 
-Star Us，You will receive all releases notifications from GitHub without any delay \~ ⭐️
+Star Us，You will receive all release notifications from GitHub without any delay \~ ⭐️
 
 <details><summary><kbd>Star History</kbd></summary>
   <picture>
@@ -220,7 +220,7 @@ sd_model_checkpoint, sd_vae, CLIP_stop_at_last_layers, img2img_background_color,
 
 #### Mobile Adaptation
 
-Partial convenience adaptation design has been completed for mobile devices, including breadcrumb foldable navigation bar, sidebar adaptation, etc. However, due to the high complexity and fixed values of the stable diffusion interface, it is difficult to ensure the same user experience as the desktop version. Feedback is welcome for more ideas.
+Partial convenience adaptation design has been completed for mobile devices, including a breadcrumb foldable navigation bar, sidebar adaptation, etc. However, due to the high complexity and fixed/hardcoded values of the original stable diffusion interface, it is difficult to ensure the same user experience as the desktop version. Feedback is welcome for more ideas.
 
 <div align="right">
 
@@ -307,7 +307,7 @@ You can use Github Codespaces for online development:
 
 [![][codespaces-shield]][codespaces-link]
 
-Alternatively, you can clone it for local development. To enable hot-reloading mode, you need to start stable diffuison on port `7860` in advance.
+Alternatively, you can clone it for local development. To enable hot-reloading mode, you need to start stable diffusion on port `7860` in advance.
 
 [![][bun-shield]][bun-link]
 
